@@ -1,6 +1,7 @@
 [
     {
         "name": "Radzymińska - Jórskiego",
+        "location": [52.276907, 21.067110],
         "relations": [
             {
                 "type": "straight",
