@@ -1,34 +1,34 @@
 [
     {
-        name: "Radzymińska - Jórskiego",
-        relations: [
+        "name": "Radzymińska - Jórskiego",
+        "relations": [
             {
-                type: "straight",
-                fromStreet: "Radzymińska",
-                fromStop: "koscieliska01",
-                toStreet: "Radzymińska",
-                toStop: "jorskiego01"
+                "type": "straight",
+                "fromStreet": "Radzymińska",
+                "fromStop": "koscieliska01",
+                "toStreet": "Radzymińska",
+                "toStop": "jorskiego01"
             },
             {
-                type: "straight",
-                fromStreet: "Radzymińska",
-                fromStop: "biezunska02",
-                toStreet: "Radzymińska",
-                toStop: "jorskiego02"
+                "type": "straight",
+                "fromStreet": "Radzymińska",
+                "fromStop": "biezunska02",
+                "toStreet": "Radzymińska",
+                "toStop": "jorskiego02"
             },
             {
-                type: "left",
-                fromStreet: "Radzymińska",
-                fromStop: "biezunska02",
-                toStreet: "Jórskiego",
-                toStop: "jorskiego04"
+                "type": "left",
+                "fromStreet": "Radzymińska",
+                "fromStop": "biezunska02",
+                "toStreet": "Jórskiego",
+                "toStop": "jorskiego04"
             },
             {
-                type: "right",
-                fromStreet: "Jórskiego",
-                fromStop: "lokietka01",
-                toStreet: "Radzymińska",
-                toStop: "jorskiego01"
+                "type": "right",
+                "fromStreet": "Jórskiego",
+                "fromStop": "lokietka01",
+                "toStreet": "Radzymińska",
+                "toStop": "jorskiego01"
             }
         ]
     }
